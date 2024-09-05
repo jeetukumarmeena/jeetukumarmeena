@@ -1,7 +1,6 @@
 ![logo](https://github.com/jeetukumarmeena/jeetu_kumar_meena/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Jeetu Kumar Meena</h1>
-<h3 align="center">A passionate Ai and ML developer from India</h3>
-<img align="right" alt="coding" width ="400" src"https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
+<h3 align="center">A passionate data Science from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetukumarmeena&label=Profile%20views&color=0e75b6&style=flat" alt="jeetukumarmeena" /> </p>
 
@@ -26,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeetukumarmeena&show_icons=true&locale=en" alt="jeetukumarmeena" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeetukumarmeena&" alt="jeetukumarmeena" /></p>
-
